@@ -6,17 +6,42 @@
 - [Variables](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase4/Variables.java)
 - [Entrada de Datos](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase5/EntradaDatos.java)
 - [Operaciones Básicas con Números](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase5/OperacionesBasicas.java)
-- [Estructura Condicional Simple](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase6/EstructuraCondicionalSimple.java)
+- [Estructura Condicional Simple](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase6/EstructuraCondicional.java)
+- [Uso de switch](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/Playstation.java)
+- [Uso de while - Contraseña sin conteo de intentos fallidos](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase8/PasswordSinConteo.java)
+- [Uso de while - Contraseña con conteo de intentos fallidos](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase8/PasswordConConteo.java)
+- [Uso de while - Repetición un numero determinado de veces](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase8/Repeticion.java)
 
 ## Solución Problemas
 
-### Clase 5
+### Clase 5 - Ejercicios Básicos
 
 - [Problema 1 - Interés Mensual](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase5/ProblemaInteresMensual.java)
 - [Problema 2 - Cercando Terreno](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase5/CercandoTerreno.java)
 
-### Clase 6
+### Clase 6 - Ejercicios con Estructura Lineal
 
 - [Problema 1 - Esfera](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase6/Esfera.java)
 - [Problema 2 - Interes hasta fin de año](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase6/InteresAnual.java)
 - [Problema 3 - Costos de Construcción](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase6/CostosConstruccion.java)
+
+### Clase 7 - Ejercicios con Estructura Condicional
+
+- [Problema 1 - Juego de Dados](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/JuegoDados.java)
+- [Problema 2 - Division justa](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/DivisionJusta.java)
+- [Problema 3 - Promoción Telefónica](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/PromocionTelefonica.java)
+- [Problema 4 - Dolares](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/Dolar.java)
+- [Problema 4 - Dolares - Solución Alternativa](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/DolarAlternativo.java)
+- [Problema 5 - Control de FIFA](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/Playstation.java)
+- [Problema 6 - Notas de Colegio](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/NotasColegio.java)
+- [Problema 6 - Notas de Colegio - Solucion usando conectivos lógicos](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/NotasColegioAlternativo.java)
+- [Problema 7 - Aumento de Sueldo - Con switch](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/AumentoSueldo.java)
+- [Problema 7 - Aumento de Sueldo - Con if](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase7/AumentoSueldoAlternativo.java)
+
+### Clase 9 - Ejercicios con Estructura Repetitiva while
+
+- [Problema 1 - Control de Camiones en una Obra](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/ControlCamiones.java)
+- [Problema 2 - Conteo de Muestras Válidas de Sensores](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/ConteoMuestras.java)
+- [Problema 3 - Promedio de Resistencia del Concreto](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/ResistenciaConcreto.java)
+- [Problema 4 - Análisis de Ventas Diarias](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/AnalisisVentas.java)
+- [Problema 5 - El Contador de Dígitos del Robot](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/ContadorDigitos.java)
