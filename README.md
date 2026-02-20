@@ -11,6 +11,8 @@
 - [Uso de while - Contraseña sin conteo de intentos fallidos](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase8/PasswordSinConteo.java)
 - [Uso de while - Contraseña con conteo de intentos fallidos](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase8/PasswordConConteo.java)
 - [Uso de while - Repetición un numero determinado de veces](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase8/Repeticion.java)
+- [Uso de for - Conteo hacia atras](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/CicloFor.java)
+- [Uso de for - Peticion de N datos](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/PedirDatos.java)
 
 ## Solución Problemas
 
@@ -45,3 +47,11 @@
 - [Problema 3 - Promedio de Resistencia del Concreto](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/ResistenciaConcreto.java)
 - [Problema 4 - Análisis de Ventas Diarias](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/AnalisisVentas.java)
 - [Problema 5 - El Contador de Dígitos del Robot](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/ContadorDigitos.java)
+- [Problema 6 - Los Digitos Traviesos](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/DigitosTraviesos.java)
+- [Problema 7 - El Cofre de la Suma Secreta](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase9/SumaSecreta.java)
+
+### Clase 10 - Ejercicios con Estructura Repetitiva for
+
+- [Problema 1 - Conteo de Estudiantes Aprobados](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/EstudiantesAprobados.java)
+- [Problema 2 - Terminos de Fibonacci](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/TerminoFibonacci.java)
+- [Problema 3 - Empaquetando Bombones](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/EmpaquetandoBombones.java)
