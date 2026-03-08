@@ -55,3 +55,9 @@
 - [Problema 1 - Conteo de Estudiantes Aprobados](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/EstudiantesAprobados.java)
 - [Problema 2 - Terminos de Fibonacci](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/TerminoFibonacci.java)
 - [Problema 3 - Empaquetando Bombones](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/EmpaquetandoBombones.java)
+
+### Clase 13 - Ejercicios de for e introductorio de arreglos
+
+- [Enunciados]()
+- [Problema 1 - Análisis de Acciones en Bolsa](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase13/AccionesBolsa.java)
+- [Problema 2 - Clasificación de Ventas por Region](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase13/ClasificacionVentas.java)
