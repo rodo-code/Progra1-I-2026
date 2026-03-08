@@ -14,6 +14,10 @@
 - [Uso de for - Conteo hacia atras](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/CicloFor.java)
 - [Uso de for - Peticion de N datos](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase10/PedirDatos.java)
 
+## Códigos de Referencia - Segundo Parcial
+
+- [Creación y Petición de Datos en un arreglo](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase13/PeticionDatos.java)
+
 ## Solución Problemas
 
 ### Clase 5 - Ejercicios Básicos
@@ -58,6 +62,12 @@
 
 ### Clase 13 - Ejercicios de for e introductorio de arreglos
 
-- [Enunciados]()
+- [Enunciados](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase13/Ejercicios%20Clase%2013.pdf)
 - [Problema 1 - Análisis de Acciones en Bolsa](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase13/AccionesBolsa.java)
 - [Problema 2 - Clasificación de Ventas por Region](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase13/ClasificacionVentas.java)
+
+### Clase 14 - Ejercicios de arreglos
+
+- [Enunciados](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase14/Ejercicios%20Clase%2014.pdf)
+- [Problema 1 - Registro de Temperaturas Semanales](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase14/Temperaturas.java)
+- [Problema 2 - Análisis de Transacciones Sospechosas](https://github.com/rodo-code/Progra1-I-2026/blob/main/Clase14/TransaccionesSospechosas.java)
