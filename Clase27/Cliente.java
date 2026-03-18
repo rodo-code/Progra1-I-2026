@@ -53,5 +53,22 @@ public class Cliente {
 			System.out.println("No pude agregar la entrada");
 		}
 	}
+	public void mostrarEntradas() {
+		System.out.println("---ENTRADAS DEL CLIENTE---");
+		for(Entrada e: entradas) {
+			if(e!=null) {
+				e.mostrarEntrada();
+			}
+		}
+	}
 	
+	public double calcularCostoTotalEntradas() {
+		double suma = 0;
+		for(Entrada e: entradas) {
+			if(e!=null) {
+				suma = suma + e.obtenerPrecio();
+			}
+		}
+		return suma;
+	}
 }
