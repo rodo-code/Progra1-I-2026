@@ -1,0 +1,221 @@
+codigoProducto,cantidad,mes,sucursal
+12,3.5,1,La Paz
+7,1.0,1,Cochabamba
+25,2.0,1,Santa Cruz
+3,4.5,1,Oruro
+18,6.0,1,Potosi
+41,2.5,1,Chuquisaca
+9,5.0,1,Tarija
+30,1.5,1,Beni
+14,3.0,1,Pando
+22,2.0,1,La Paz
+5,7.5,1,Cochabamba
+11,4.0,1,Santa Cruz
+28,2.5,1,Oruro
+36,3.0,1,Potosi
+50,1.0,1,Chuquisaca
+2,8.0,1,Tarija
+17,2.5,1,Beni
+44,3.5,1,Pando
+6,1.5,2,La Paz
+21,4.0,2,Cochabamba
+33,2.0,2,Santa Cruz
+15,5.5,2,Oruro
+40,3.0,2,Potosi
+8,6.5,2,Chuquisaca
+27,2.5,2,Tarija
+49,1.0,2,Beni
+13,4.5,2,Pando
+31,2.0,2,La Paz
+4,7.0,2,Cochabamba
+19,3.5,2,Santa Cruz
+45,1.5,2,Oruro
+24,2.0,2,Potosi
+10,5.0,2,Chuquisaca
+37,3.0,2,Tarija
+51,1.5,2,Beni
+16,4.0,2,Pando
+1,2.5,3,La Paz
+23,3.5,3,Cochabamba
+35,2.0,3,Santa Cruz
+47,1.0,3,Oruro
+20,6.0,3,Potosi
+42,2.5,3,Chuquisaca
+26,4.0,3,Tarija
+32,3.5,3,Beni
+18,5.0,3,Pando
+9,1.5,3,La Paz
+29,2.0,3,Cochabamba
+43,4.5,3,Santa Cruz
+14,3.0,3,Oruro
+5,7.5,3,Potosi
+38,2.5,3,Chuquisaca
+11,6.0,3,Tarija
+46,1.5,3,Beni
+7,3.0,3,Pando
+25,2.0,4,La Paz
+12,4.5,4,Cochabamba
+34,1.5,4,Santa Cruz
+48,2.5,4,Oruro
+3,5.0,4,Potosi
+17,3.0,4,Chuquisaca
+39,2.0,4,Tarija
+21,6.5,4,Beni
+50,1.0,4,Pando
+6,4.0,4,La Paz
+27,2.5,4,Cochabamba
+41,3.5,4,Santa Cruz
+15,5.0,4,Oruro
+30,1.5,4,Potosi
+8,7.0,4,Chuquisaca
+22,2.0,4,Tarija
+44,3.0,4,Beni
+13,4.5,4,Pando
+36,2.5,5,La Paz
+2,8.0,5,Cochabamba
+19,3.0,5,Santa Cruz
+45,1.5,5,Oruro
+10,5.5,5,Potosi
+28,2.0,5,Chuquisaca
+51,1.0,5,Tarija
+16,4.0,5,Beni
+33,2.5,5,Pando
+4,6.0,5,La Paz
+24,3.5,5,Cochabamba
+40,2.0,5,Santa Cruz
+9,4.5,5,Oruro
+31,1.5,5,Potosi
+47,2.5,5,Chuquisaca
+18,5.0,5,Tarija
+37,3.0,5,Beni
+1,2.0,5,Pando
+23,4.0,6,La Paz
+35,2.5,6,Cochabamba
+49,1.5,6,Santa Cruz
+14,3.0,6,Oruro
+5,6.5,6,Potosi
+26,2.0,6,Chuquisaca
+42,3.5,6,Tarija
+11,4.5,6,Beni
+46,1.0,6,Pando
+7,2.5,6,La Paz
+20,5.0,6,Cochabamba
+32,3.0,6,Santa Cruz
+43,2.0,6,Oruro
+12,4.0,6,Potosi
+29,1.5,6,Chuquisaca
+38,2.5,6,Tarija
+17,6.0,6,Beni
+50,1.5,6,Pando
+3,4.5,7,La Paz
+21,2.0,7,Cochabamba
+41,3.0,7,Santa Cruz
+15,5.5,7,Oruro
+30,1.0,7,Potosi
+8,6.5,7,Chuquisaca
+22,2.5,7,Tarija
+44,3.0,7,Beni
+13,4.0,7,Pando
+36,2.0,7,La Paz
+2,7.5,7,Cochabamba
+19,3.5,7,Santa Cruz
+45,1.5,7,Oruro
+10,5.0,7,Potosi
+28,2.5,7,Chuquisaca
+51,1.0,7,Tarija
+16,4.5,7,Beni
+33,2.0,7,Pando
+4,6.0,8,La Paz
+24,3.0,8,Cochabamba
+40,2.5,8,Santa Cruz
+9,4.5,8,Oruro
+31,1.5,8,Potosi
+47,2.0,8,Chuquisaca
+18,5.5,8,Tarija
+37,3.0,8,Beni
+1,2.5,8,Pando
+23,4.0,8,La Paz
+35,2.0,8,Cochabamba
+49,1.0,8,Santa Cruz
+14,3.5,8,Oruro
+5,6.0,8,Potosi
+26,2.5,8,Chuquisaca
+42,3.0,8,Tarija
+11,4.5,8,Beni
+46,1.5,8,Pando
+7,2.0,9,La Paz
+20,5.0,9,Cochabamba
+32,3.5,9,Santa Cruz
+43,2.5,9,Oruro
+12,4.0,9,Potosi
+29,1.0,9,Chuquisaca
+38,2.0,9,Tarija
+17,6.5,9,Beni
+50,1.5,9,Pando
+3,4.5,9,La Paz
+21,2.5,9,Cochabamba
+41,3.0,9,Santa Cruz
+15,5.0,9,Oruro
+30,1.5,9,Potosi
+8,7.0,9,Chuquisaca
+22,2.0,9,Tarija
+44,3.5,9,Beni
+13,4.0,9,Pando
+36,2.5,10,La Paz
+2,8.0,10,Cochabamba
+19,3.0,10,Santa Cruz
+45,1.0,10,Oruro
+10,5.5,10,Potosi
+28,2.0,10,Chuquisaca
+51,1.5,10,Tarija
+16,4.5,10,Beni
+33,2.5,10,Pando
+4,6.0,10,La Paz
+24,3.5,10,Cochabamba
+40,2.0,10,Santa Cruz
+9,4.0,10,Oruro
+31,1.5,10,Potosi
+47,2.5,10,Chuquisaca
+18,5.0,10,Tarija
+37,3.0,10,Beni
+1,2.0,10,Pando
+23,4.5,11,La Paz
+35,2.5,11,Cochabamba
+49,1.0,11,Santa Cruz
+14,3.0,11,Oruro
+5,6.5,11,Potosi
+26,2.0,11,Chuquisaca
+42,3.5,11,Tarija
+11,4.0,11,Beni
+46,1.5,11,Pando
+7,2.5,11,La Paz
+20,5.5,11,Cochabamba
+32,3.0,11,Santa Cruz
+43,2.0,11,Oruro
+12,4.5,11,Potosi
+29,1.5,11,Chuquisaca
+38,2.5,11,Tarija
+17,6.0,11,Beni
+50,1.0,11,Pando
+3,4.0,12,La Paz
+21,2.5,12,Cochabamba
+41,3.0,12,Santa Cruz
+15,5.0,12,Oruro
+30,1.5,12,Potosi
+8,6.5,12,Chuquisaca
+22,2.0,12,Tarija
+44,3.5,12,Beni
+13,4.5,12,Pando
+36,2.0,12,La Paz
+2,7.0,12,Cochabamba
+19,3.5,12,Santa Cruz
+45,1.0,12,Oruro
+10,5.5,12,Potosi
+28,2.5,12,Chuquisaca
+51,1.5,12,Tarija
+16,4.0,12,Beni
+33,2.0,12,Pando
+4,6.0,12,La Paz
+24,3.0,12,Cochabamba
+40,2.5,12,Santa Cruz
+9,4.0,12,Oruro

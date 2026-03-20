@@ -1,0 +1,52 @@
+codigo,nombre,precio,categoria
+1,Pringles,25,Snacks
+2,Coca Cola 2L,14,Bebidas
+3,Pepsi 2L,13,Bebidas
+4,Jugo de Naranja,9,Bebidas
+5,Agua Mineral,5,Bebidas
+6,Galletas Oreo,8,Snacks
+7,Papas Fritas,7,Snacks
+8,Chocolate Sublime,6,Dulces
+9,Caramelos Menta,4,Dulces
+10,Chicle de Fresa,3,Dulces
+11,Pan de Molde,12,Panadería
+12,Leche Entera,8,Lácteos
+13,Yogur de Fresa,6,Lácteos
+14,Queso Fresco,15,Lácteos
+15,Mantequilla,11,Lácteos
+16,Arroz 1kg,10,Abarrotes
+17,Azúcar 1kg,9,Abarrotes
+18,Harina 1kg,8,Abarrotes
+19,Fideos Espagueti,7,Abarrotes
+20,Aceite Vegetal 1L,16,Abarrotes
+21,Sal 1kg,4,Abarrotes
+22,Café Instantáneo,18,Bebidas
+23,Té de Manzanilla,7,Bebidas
+24,Atún en Lata,12,Conservas
+25,Sardinas en Lata,10,Conservas
+26,Mayonesa,13,Aderezos
+27,Ketchup,10,Aderezos
+28,Mostaza,9,Aderezos
+29,Huevos Docena,18,Abarrotes
+30,Detergente en Polvo,22,Limpieza
+31,Jabón de Barra,5,Limpieza
+32,Shampoo,17,Higiene
+33,Pasta Dental,12,Higiene
+34,Papel Higiénico 4u,14,Higiene
+35,Servilletas,6,Higiene
+36,Gaseosa Sprite 2L,13,Bebidas
+37,Chocolate en Polvo,15,Bebidas
+38,Cereal de Maíz,19,Desayuno
+39,Avena 500g,11,Desayuno
+40,Mermelada de Frutilla,10,Desayuno
+41,Miel de Abeja,20,Desayuno
+42,Maní Salado,8,Snacks
+43,Nachos,9,Snacks
+44,Gelatina de Frutilla,5,Postres
+45,Flan de Vainilla,6,Postres
+46,Helado de Chocolate,18,Postres
+47,Pollo Entero,35,Carnes
+48,Carne Molida 1kg,42,Carnes
+49,Salchichas,14,Carnes
+50,Jamón,16,Embutidos
+51,Chorizo,18,Embutidos
